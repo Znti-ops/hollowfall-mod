@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "hollowfall:decayed_concrete",
+    "hollowfall:old_tiles",
+    "hollowfall:rusted_plating",
+    "hollowfall:corrupted_block"
+  ]
+}

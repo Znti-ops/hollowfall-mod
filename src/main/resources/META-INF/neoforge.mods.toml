@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "hollowfall"
+version = "0.1.0"
+displayName = "Hollowfall"
+authors = "Yulian"
+description = '''
+Mod de terror psicologico para Minecraft Java 1.21.1: cordura, eventos paranormales, entidades y estructuras abandonadas.
+'''
+
+[[dependencies.hollowfall]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.hollowfall]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
